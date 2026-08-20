@@ -1,0 +1,1042 @@
+{
+  "宁德时代|300750.SZ": {
+    "savedAt": 1786869314.071319,
+    "data": {
+      "name": "宁德时代",
+      "code": "300750.SZ",
+      "quote": {
+        "current": 393.93,
+        "changePct": -0.6,
+        "close": 393.93,
+        "previousClose": 396.3
+      },
+      "valuation": {
+        "pe": 41.42271293375394,
+        "pb": 4.804425475185127,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 16.9836844006,
+        "assetTurnover": 0.262019670053,
+        "financialLeverage": 2.7145705170630205,
+        "reportDate": "2026-06-30"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T16:35:14+0800"
+    }
+  },
+  "亿纬锂能|300014.SZ": {
+    "savedAt": 1786869315.5711765,
+    "data": {
+      "name": "亿纬锂能",
+      "code": "300014.SZ",
+      "quote": {
+        "current": 56.44,
+        "changePct": 1.0,
+        "close": 56.44,
+        "previousClose": 55.88
+      },
+      "valuation": {
+        "pe": 80.62857142857143,
+        "pb": 2.6829592240362747,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 6.9777979116,
+        "assetTurnover": 0.160118539092,
+        "financialLeverage": 2.9983670775646005,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T16:35:15+0800"
+    }
+  },
+  "寒武纪|688256.SH": {
+    "savedAt": 1786939896.8793402,
+    "data": {
+      "name": "寒武纪",
+      "code": "688256.SH",
+      "quote": {
+        "current": 1140.98,
+        "changePct": 4.39,
+        "close": 1140.98,
+        "previousClose": 1093.0
+      },
+      "valuation": {
+        "pe": 310.04891304347825,
+        "pb": 52.88437211664693,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 38.5409545964,
+        "assetTurnover": 0.379023071493,
+        "financialLeverage": 1.2356318444915018,
+        "reportDate": "2026-06-30"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:11:36+0800"
+    }
+  },
+  "海光信息|688041.SH": {
+    "savedAt": 1786939900.460645,
+    "data": {
+      "name": "海光信息",
+      "code": "688041.SH",
+      "quote": {
+        "current": 284.05,
+        "changePct": 1.09,
+        "close": 284.05,
+        "previousClose": 280.99
+      },
+      "valuation": {
+        "pe": 364.1666666666667,
+        "pb": 26.020609923671223,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 22.6853615525,
+        "assetTurnover": 0.253905460105,
+        "financialLeverage": 1.3125143185741739,
+        "reportDate": "2026-06-30"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:11:40+0800"
+    }
+  },
+  "安集科技|688019.SH": {
+    "savedAt": 1786879593.215806,
+    "data": {
+      "name": "安集科技",
+      "code": "688019.SH",
+      "quote": {
+        "current": 248.2,
+        "changePct": 2.35,
+        "close": 248.2,
+        "previousClose": 242.5
+      },
+      "valuation": {
+        "pe": 201.78861788617886,
+        "pb": 9.465495416091697,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 28.6868591957,
+        "assetTurnover": 0.137980031555,
+        "financialLeverage": 1.4400435092017367,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T19:26:33+0800"
+    }
+  },
+  "南大光电|300346.SZ": {
+    "savedAt": 1786879600.4213066,
+    "data": {
+      "name": "南大光电",
+      "code": "300346.SZ",
+      "quote": {
+        "current": 58.71,
+        "changePct": 1.93,
+        "close": 58.71,
+        "previousClose": 57.6
+      },
+      "valuation": {
+        "pe": 326.1666666666667,
+        "pb": 11.271257148165596,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 22.9696324937,
+        "assetTurnover": 0.107714819908,
+        "financialLeverage": 1.4146159092393433,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T19:26:40+0800"
+    }
+  },
+  "韦尔股份|603501.SH": {
+    "savedAt": 1786869352.6049106,
+    "data": {
+      "name": "豪威集团",
+      "code": "603501.SH",
+      "quote": {
+        "current": 91.08,
+        "changePct": 1.18,
+        "close": 91.08,
+        "previousClose": 90.02
+      },
+      "valuation": {
+        "pe": 222.14634146341464,
+        "pb": 3.4966620846534924,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 7.6968822312,
+        "assetTurnover": 0.137985814573,
+        "financialLeverage": 1.4688427877257546,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T16:35:52+0800"
+    }
+  },
+  "兆易创新|603986.SH": {
+    "savedAt": 1786869355.304831,
+    "data": {
+      "name": "兆易创新",
+      "code": "603986.SH",
+      "quote": {
+        "current": 417.48,
+        "changePct": 3.21,
+        "close": 417.48,
+        "previousClose": 404.5
+      },
+      "valuation": {
+        "pe": 190.63013698630138,
+        "pb": 11.581240842025174,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 35.1597107365,
+        "assetTurnover": 0.170349949906,
+        "financialLeverage": 1.0217958124926199,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T16:35:55+0800"
+    }
+  },
+  "赣锋锂业|002460.SZ": {
+    "savedAt": 1786880253.0107086,
+    "data": {
+      "name": "赣锋锂业",
+      "code": "002460.SZ",
+      "quote": {
+        "current": 53.85,
+        "changePct": 1.3,
+        "close": 53.85,
+        "previousClose": 53.16
+      },
+      "valuation": {
+        "pe": 61.19318181818182,
+        "pb": 2.4302690044310093,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 20.9009476993,
+        "assetTurnover": 0.07923219476,
+        "financialLeverage": 2.4274952476726264,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T19:37:33+0800"
+    }
+  },
+  "当升科技|300073.SZ": {
+    "savedAt": 1786880255.4282868,
+    "data": {
+      "name": "当升科技",
+      "code": "300073.SZ",
+      "quote": {
+        "current": 41.8,
+        "changePct": 0.43,
+        "close": 41.8,
+        "previousClose": 41.62
+      },
+      "valuation": {
+        "pe": 82.18639402280769,
+        "pb": 1.5203548326812202,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 6.630558052,
+        "assetTurnover": 0.192584613741,
+        "financialLeverage": 1.4644344535788887,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T19:37:35+0800"
+    }
+  },
+  "绿的谐波|688017.SH": {
+    "savedAt": 1786883412.4115965,
+    "data": {
+      "name": "绿的谐波",
+      "code": "688017.SH",
+      "quote": {
+        "current": 349.93,
+        "changePct": 1.14,
+        "close": 349.93,
+        "previousClose": 346.0
+      },
+      "valuation": {
+        "pe": 1965.8988764044946,
+        "pb": 17.9758659197915,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 23.5409988386,
+        "assetTurnover": 0.035578143756,
+        "financialLeverage": 1.098448388066678,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T20:30:12+0800"
+    }
+  },
+  "鸣志电器|603728.SH": {
+    "savedAt": 1786883414.7998505,
+    "data": {
+      "name": "鸣志电器",
+      "code": "603728.SH",
+      "quote": {
+        "current": 52.17,
+        "changePct": 0.17,
+        "close": 52.17,
+        "previousClose": 52.08
+      },
+      "valuation": {
+        "pe": 1580.909090909091,
+        "pb": 7.349167349593788,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 1.9543803108,
+        "assetTurnover": 0.15367207489,
+        "financialLeverage": 1.5316297653632267,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-16T20:30:14+0800"
+    }
+  },
+  "沪电股份|002463.SZ": {
+    "savedAt": 1786939907.7650242,
+    "data": {
+      "name": "沪电股份",
+      "code": "002463.SZ",
+      "quote": {
+        "current": 122.77,
+        "changePct": 1.24,
+        "close": 122.77,
+        "previousClose": 121.27
+      },
+      "valuation": {
+        "pe": 190.19364833462433,
+        "pb": 14.07122935809669,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 19.9776069975,
+        "assetTurnover": 0.203828730962,
+        "financialLeverage": 1.9179715813890472,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:11:47+0800"
+    }
+  },
+  "深南电路|002916.SZ": {
+    "savedAt": 1786939908.9325957,
+    "data": {
+      "name": "深南电路",
+      "code": "002916.SZ",
+      "quote": {
+        "current": 381.1,
+        "changePct": 0.82,
+        "close": 381.1,
+        "previousClose": 378.0
+      },
+      "valuation": {
+        "pe": 297.734375,
+        "pb": 14.349709435972198,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 12.9069897794,
+        "assetTurnover": 0.203148894994,
+        "financialLeverage": 1.8420766615103747,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:11:48+0800"
+    }
+  },
+  "金山办公|688111.SH": {
+    "savedAt": 1786939966.2896652,
+    "data": {
+      "name": "金山办公",
+      "code": "688111.SH",
+      "quote": {
+        "current": 253.88,
+        "changePct": -1.0,
+        "close": 253.88,
+        "previousClose": 256.45
+      },
+      "valuation": {
+        "pe": 53.561181434599156,
+        "pb": 7.775485031839784,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 136.0731361782,
+        "assetTurnover": 0.084081629081,
+        "financialLeverage": 1.3722275692929202,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:12:46+0800"
+    }
+  },
+  "拓尔思|300229.SZ": {
+    "savedAt": 1786939967.6336198,
+    "data": {
+      "name": "拓尔思",
+      "code": "300229.SZ",
+      "quote": {
+        "current": 14.43,
+        "changePct": -0.62,
+        "close": 14.43,
+        "previousClose": 14.52
+      },
+      "valuation": {
+        "pe": -162.8668171557562,
+        "pb": 3.345005823608799,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": -119.5915518068,
+        "assetTurnover": 0.015787228141,
+        "financialLeverage": 1.0752009802178737,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:12:47+0800"
+    }
+  },
+  "科大讯飞|002230.SZ": {
+    "savedAt": 1786939978.4184806,
+    "data": {
+      "name": "科大讯飞",
+      "code": "002230.SZ",
+      "quote": {
+        "current": 41.65,
+        "changePct": -0.31,
+        "close": 41.65,
+        "previousClose": 41.78
+      },
+      "valuation": {
+        "pe": -594.9999999999999,
+        "pb": 5.107350926251029,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": -3.5605289982,
+        "assetTurnover": 0.116537870552,
+        "financialLeverage": 2.1931068278543147,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:12:58+0800"
+    }
+  },
+  "三六零|601360.SH": {
+    "savedAt": 1786939980.8130867,
+    "data": {
+      "name": "三六零",
+      "code": "601360.SH",
+      "quote": {
+        "current": 9.42,
+        "changePct": -0.53,
+        "close": 9.42,
+        "previousClose": 9.47
+      },
+      "valuation": {
+        "pe": 471.0,
+        "pb": 2.258092633679827,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 5.2540941704,
+        "assetTurnover": 0.053593462119,
+        "financialLeverage": 1.3139899947595557,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:13:00+0800"
+    }
+  },
+  "三博脑科|301293.SZ": {
+    "savedAt": 1786939986.7642426,
+    "data": {
+      "name": "三博脑科",
+      "code": "301293.SZ",
+      "quote": {
+        "current": 56.68,
+        "changePct": -1.65,
+        "close": 56.68,
+        "previousClose": 57.63
+      },
+      "valuation": {
+        "pe": 809.7142857142857,
+        "pb": 4.95239453403629,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.2998268504,
+        "assetTurnover": 0.113958086955,
+        "financialLeverage": 2.441966399517603,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:13:06+0800"
+    }
+  },
+  "创新医疗|002173.SZ": {
+    "savedAt": 1786939990.4916434,
+    "data": {
+      "name": "创新医疗",
+      "code": "002173.SZ",
+      "quote": {
+        "current": 20.69,
+        "changePct": -2.82,
+        "close": 20.69,
+        "previousClose": 21.29
+      },
+      "valuation": {
+        "pe": -172.41666666666669,
+        "pb": 5.531076608315114,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": -16.1942552032,
+        "assetTurnover": 0.159749797688,
+        "financialLeverage": 1.1866894453130752,
+        "reportDate": "2026-06-30"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-17T12:13:10+0800"
+    }
+  },
+  "歌尔股份|002241.SZ": {
+    "savedAt": 1787101512.819122,
+    "data": {
+      "name": "歌尔股份",
+      "code": "002241.SZ",
+      "quote": {
+        "current": 22.48,
+        "changePct": 1.67,
+        "close": 22.48,
+        "previousClose": 22.11
+      },
+      "valuation": {
+        "pe": 160.57142857142856,
+        "pb": 2.1349174597932716,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.8001216981,
+        "assetTurnover": 0.203761553753,
+        "financialLeverage": 2.4011617504792286,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:05:12+0800"
+    }
+  },
+  "水晶光电|002273.SZ": {
+    "savedAt": 1787101516.6841202,
+    "data": {
+      "name": "水晶光电",
+      "code": "002273.SZ",
+      "quote": {
+        "current": 29.0,
+        "changePct": -0.34,
+        "close": 29.0,
+        "previousClose": 29.1
+      },
+      "valuation": {
+        "pe": 161.11111111111111,
+        "pb": 3.955132654093207,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 13.650911177,
+        "assetTurnover": 0.128954136167,
+        "financialLeverage": 1.4144982995735658,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:05:16+0800"
+    }
+  },
+  "中国交建|601800.SH": {
+    "savedAt": 1787014081.000942,
+    "data": {
+      "name": "中国交建",
+      "code": "601800.SH",
+      "quote": {
+        "current": 5.91,
+        "changePct": -0.34,
+        "close": 5.91,
+        "previousClose": 5.93
+      },
+      "valuation": {
+        "pe": 24.625,
+        "pb": 0.33023933403735434,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 3.4131698813,
+        "assetTurnover": 0.075074076895,
+        "financialLeverage": 5.346538047012001,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T08:48:00+0800"
+    }
+  },
+  "中国铁建|601186.SH": {
+    "savedAt": 1787014083.4534712,
+    "data": {
+      "name": "中国铁建",
+      "code": "601186.SH",
+      "quote": {
+        "current": 6.04,
+        "changePct": -0.17,
+        "close": 6.04,
+        "previousClose": 6.05
+      },
+      "valuation": {
+        "pe": 21.57142857142857,
+        "pb": 0.2951145805444991,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.1161131997,
+        "assetTurnover": 0.109592134226,
+        "financialLeverage": 5.950600654018099,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T08:48:03+0800"
+    }
+  },
+  "天孚通信|300394.SZ": {
+    "savedAt": 1787014175.6605775,
+    "data": {
+      "name": "天孚通信",
+      "code": "300394.SZ",
+      "quote": {
+        "current": 286.56,
+        "changePct": 7.04,
+        "close": 286.56,
+        "previousClose": 267.71
+      },
+      "valuation": {
+        "pe": 452.6299162849471,
+        "pb": 37.2543692922252,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 37.0052513165,
+        "assetTurnover": 0.198089819088,
+        "financialLeverage": 1.1691098203891745,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T08:49:35+0800"
+    }
+  },
+  "光迅科技|002281.SZ": {
+    "savedAt": 1787014178.2315776,
+    "data": {
+      "name": "光迅科技",
+      "code": "002281.SZ",
+      "quote": {
+        "current": 199.75,
+        "changePct": 4.3,
+        "close": 199.75,
+        "previousClose": 191.52
+      },
+      "valuation": {
+        "pe": 665.8333333333334,
+        "pb": 15.582922268738917,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 8.3825678382,
+        "assetTurnover": 0.160275659324,
+        "financialLeverage": 1.7491345301510863,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T08:49:38+0800"
+    }
+  },
+  "长电科技|600584.SH": {
+    "savedAt": 1787016349.0648968,
+    "data": {
+      "name": "长电科技",
+      "code": "600584.SH",
+      "quote": {
+        "current": 85.69,
+        "changePct": -0.19,
+        "close": 85.69,
+        "previousClose": 85.85
+      },
+      "valuation": {
+        "pe": 535.5625,
+        "pb": 5.330417046637393,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 3.040893165,
+        "assetTurnover": 0.165898203017,
+        "financialLeverage": 2.0020666418146633,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T09:25:49+0800"
+    }
+  },
+  "通富微电|002156.SZ": {
+    "savedAt": 1787016351.430195,
+    "data": {
+      "name": "通富微电",
+      "code": "002156.SZ",
+      "quote": {
+        "current": 71.2,
+        "changePct": 2.8,
+        "close": 71.2,
+        "previousClose": 69.26
+      },
+      "valuation": {
+        "pe": 328.41328413284134,
+        "pb": 6.900608965761667,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 4.6813519519,
+        "assetTurnover": 0.155072367159,
+        "financialLeverage": 2.892767869251243,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T09:25:51+0800"
+    }
+  },
+  "拓普集团|601689.SH": {
+    "savedAt": 1787016730.0095046,
+    "data": {
+      "name": "拓普集团",
+      "code": "601689.SH",
+      "quote": {
+        "current": 50.25,
+        "changePct": -0.12,
+        "close": 50.25,
+        "previousClose": 50.31
+      },
+      "valuation": {
+        "pe": 157.03125,
+        "pb": 3.5515383831348526,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 8.3486898687,
+        "assetTurnover": 0.15501685516,
+        "financialLeverage": 1.7539960323042743,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T09:32:10+0800"
+    }
+  },
+  "三花智控|002050.SZ": {
+    "savedAt": 1787016731.2535846,
+    "data": {
+      "name": "三花智控",
+      "code": "002050.SZ",
+      "quote": {
+        "current": 39.1,
+        "changePct": 0.21,
+        "close": 39.11,
+        "previousClose": 39.02
+      },
+      "valuation": {
+        "pe": 177.72727272727272,
+        "pb": 5.042722540552491,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 12.2320823481,
+        "assetTurnover": 0.157405950449,
+        "financialLeverage": 1.495791102484819,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-18T09:32:11+0800"
+    }
+  },
+  "东方电气|600875.SH": {
+    "savedAt": 1787101523.5044065,
+    "data": {
+      "name": "东方电气",
+      "code": "600875.SH",
+      "quote": {
+        "current": 27.58,
+        "changePct": -1.43,
+        "close": 27.58,
+        "previousClose": 27.98
+      },
+      "valuation": {
+        "pe": 59.95652173913043,
+        "pb": 2.0344620284666886,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 9.0930448459,
+        "assetTurnover": 0.107243839326,
+        "financialLeverage": 3.5795368612506855,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:05:23+0800"
+    }
+  },
+  "上海电气|601727.SH": {
+    "savedAt": 1787101524.7487483,
+    "data": {
+      "name": "上海电气",
+      "code": "601727.SH",
+      "quote": {
+        "current": 6.69,
+        "changePct": -0.89,
+        "close": 6.69,
+        "previousClose": 6.75
+      },
+      "valuation": {
+        "pe": 273.0612244897959,
+        "pb": 1.8939619155283915,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.6675793719,
+        "assetTurnover": 0.074473052258,
+        "financialLeverage": 3.4914334977067836,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:05:24+0800"
+    }
+  },
+  "保利发展|600048.SH": {
+    "savedAt": 1787101765.9195733,
+    "data": {
+      "name": "保利发展",
+      "code": "600048.SH",
+      "quote": {
+        "current": 5.24,
+        "changePct": 0.38,
+        "close": 5.24,
+        "previousClose": 5.22
+      },
+      "valuation": {
+        "pe": 65.5,
+        "pb": 0.3233125788869904,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.6048136701,
+        "assetTurnover": 0.038673263117,
+        "financialLeverage": 4.6656308913144615,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:09:25+0800"
+    }
+  },
+  "招商蛇口|001979.SZ": {
+    "savedAt": 1787101769.5013375,
+    "data": {
+      "name": "招商蛇口",
+      "code": "001979.SZ",
+      "quote": {
+        "current": 7.47,
+        "changePct": -0.93,
+        "close": 7.47,
+        "previousClose": 7.54
+      },
+      "valuation": {
+        "pe": 1867.5,
+        "pb": 0.6902518624989238,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 0.8697677917,
+        "assetTurnover": 0.028362548764,
+        "financialLeverage": 1.6214793214728445,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T09:09:29+0800"
+    }
+  },
+  "明阳智能|601615.SH": {
+    "savedAt": 1787119212.5593832,
+    "data": {
+      "name": "明阳智能",
+      "code": "601615.SH",
+      "quote": {
+        "current": 10.89,
+        "changePct": -5.14,
+        "close": 10.88,
+        "previousClose": 11.48
+      },
+      "valuation": {
+        "pe": 1089.0,
+        "pb": 0.9335856804144338,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 0.3929430797,
+        "assetTurnover": 0.089032988116,
+        "financialLeverage": 2.572538695376732,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T14:00:12+0800"
+    }
+  },
+  "金风科技|002202.SZ": {
+    "savedAt": 1787119214.9572847,
+    "data": {
+      "name": "金风科技",
+      "code": "002202.SZ",
+      "quote": {
+        "current": 23.19,
+        "changePct": 5.36,
+        "close": 23.19,
+        "previousClose": 22.01
+      },
+      "valuation": {
+        "pe": 110.9038737446198,
+        "pb": 2.4631991668645625,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 6.5066106364,
+        "assetTurnover": 0.092577875854,
+        "financialLeverage": 3.70205470794616,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T14:00:14+0800"
+    }
+  },
+  "用友网络|600588.SH": {
+    "savedAt": 1787119232.790773,
+    "data": {
+      "name": "用友网络",
+      "code": "600588.SH",
+      "quote": {
+        "current": 10.98,
+        "changePct": -4.02,
+        "close": 10.98,
+        "previousClose": 11.44
+      },
+      "valuation": {
+        "pe": -49.909090909090914,
+        "pb": 5.441074549057658,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": -51.0098148571,
+        "assetTurnover": 0.068249303654,
+        "financialLeverage": 2.952848345858025,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T14:00:32+0800"
+    }
+  },
+  "广联达|002410.SZ": {
+    "savedAt": 1787119233.8396175,
+    "data": {
+      "name": "广联达",
+      "code": "002410.SZ",
+      "quote": {
+        "current": 8.89,
+        "changePct": -1.98,
+        "close": 8.89,
+        "previousClose": 9.07
+      },
+      "valuation": {
+        "pe": 425.3588516746412,
+        "pb": 2.416549200068402,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 4.0049946333,
+        "assetTurnover": 0.117439022393,
+        "financialLeverage": 1.1938306808428418,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：东方财富 + 东方财富财务数据",
+      "updatedAt": "2026-08-19T14:00:33+0800"
+    }
+  },
+  "阳光电源|300274.SZ": {
+    "savedAt": 1787187683.016418,
+    "data": {
+      "name": "阳光电源",
+      "code": "300274.SZ",
+      "quote": {
+        "current": 111.49,
+        "changePct": -5.55,
+        "close": 111.49,
+        "previousClose": 118.04
+      },
+      "valuation": {
+        "pe": 99.54464285714285,
+        "pb": 4.750081656089594,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 14.4334229123,
+        "assetTurnover": 0.129379017835,
+        "financialLeverage": 2.5757985205521945,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-20T09:01:23+0800"
+    }
+  },
+  "派能科技|688063.SH": {
+    "savedAt": 1787187684.1849158,
+    "data": {
+      "name": "派能科技",
+      "code": "688063.SH",
+      "quote": {
+        "current": 43.6,
+        "changePct": -3.94,
+        "close": 43.6,
+        "previousClose": 45.39
+      },
+      "valuation": {
+        "pe": 484.44444444444446,
+        "pb": 1.1578678958509352,
+        "peg": null
+      },
+      "fundamental": {
+        "netMargin": 2.0889438297,
+        "assetTurnover": 0.072600542798,
+        "financialLeverage": 1.582503254274528,
+        "reportDate": "2026-03-31"
+      },
+      "source": "Codex 当前配置：腾讯行情 + 东方财富财务数据",
+      "updatedAt": "2026-08-20T09:01:24+0800"
+    }
+  }
+}
